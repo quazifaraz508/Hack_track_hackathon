@@ -8,3 +8,11 @@ run in vscode but it shows error if you dont have install requirements which I h
 step 3:
 after installing all py library's in terminal in manage.py directory of vscode run : python manage.py runserver
 
+step 4:
+wait a minute it gives http/xyz link copy it and past on web browser
+
+step 5:
+in that pasted link add image_txts/  (http/xyz123/image_txts) hit enter
+
+step 6:
+you run code successfully
